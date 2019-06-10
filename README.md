@@ -8,4 +8,4 @@ config.allowedContent = true;
 config.extraPlugins = 'furigana';
 
 demo :
-![Demo](https://raw.githubusercontent.com/tygonorg/furigana/screen.gif)
+![Demo](https://github.com/tygonorg/furigana/blob/master/screen.gif?raw=true)
