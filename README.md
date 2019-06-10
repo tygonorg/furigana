@@ -8,4 +8,4 @@ config.allowedContent = true;
 config.extraPlugins = 'furigana';
 
 demo :
-!(screen.gif)
+(screen.gif)
